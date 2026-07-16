@@ -1,7 +1,7 @@
 class AppConstants {
   // Supabase - replace with your own project credentials
-  static const String supabaseUrl = 'YOUR_PROJECT_URL';
-  static const String supabaseAnonKey = 'YOUR_ANON_KEY';
+  static const String supabaseUrl = 'https://rgrolsukptrkdrguthkp.supabase.co/rest/v1/';
+  static const String supabaseAnonKey = 'sb_publishable_F8k4kBh2KrQVmyj9BjrTQw_uWUG0TDm';
 
   // Transaction categories
   static const List<String> categories = [
